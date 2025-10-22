@@ -37,7 +37,7 @@ Mengambil input nama dari pengguna dan menampilkannya di halaman.
 
 ![gambar 1](img/code4.png)
 ![gambar 1](l4.png)
-![gambar 1](l4.png)
+
 
 ---
 
