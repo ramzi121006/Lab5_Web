@@ -12,7 +12,7 @@
 Menampilkan teks menggunakan document.write() dan console.log().
 
 ![gambar 1](img/code1.png)
-![gambar 1](img/11.png)
+![gambar 1](11.png)
 
 --
 
