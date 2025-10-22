@@ -12,7 +12,7 @@
 Menampilkan teks menggunakan document.write() dan console.log().
 
 ![gambar 1](img/code1.png)
-![gambar 1](<img width="685" height="258" alt="11" src="https://github.com/user-attachments/assets/b9675d23-c66b-4213-80ae-a8a3ecd7c134" /)
+![gambar 1](img/code11.png)
 
 --
 
