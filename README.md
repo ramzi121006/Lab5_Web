@@ -28,7 +28,7 @@ Menampilkan pesan pop-up menggunakan alert().
 Pemakaian method dalam objek
 
 ![gambar 1](img/code3.png)
-![gambar 1](l3.png)
+![gambar 1](13.png)
 
 ---
 
