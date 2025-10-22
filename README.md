@@ -20,7 +20,7 @@ Menampilkan teks menggunakan document.write() dan console.log().
 Menampilkan pesan pop-up menggunakan alert(). 
 
 ![gambar 1](img/code2.png)
-![gambar 1](img/hasil2.png)
+![gambar 1](12.png)
 
 ---
 
@@ -28,7 +28,7 @@ Menampilkan pesan pop-up menggunakan alert().
 Pemakaian method dalam objek
 
 ![gambar 1](img/code3.png)
-![gambar 1](img/hasil3.png)
+![gambar 1](l3.png)
 
 ---
 
@@ -36,8 +36,8 @@ Pemakaian method dalam objek
 Mengambil input nama dari pengguna dan menampilkannya di halaman.
 
 ![gambar 1](img/code4.png)
-![gambar 1](img/hasil4.png)
-![gambar 1](img/hasil4_1.png)
+![gambar 1](l4.png)
+![gambar 1](l4.png)
 
 ---
 
