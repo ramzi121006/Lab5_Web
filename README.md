@@ -53,7 +53,7 @@ Menjalankan fungsi saat halaman dimuat menggunakan body onload.
 Menghitung dan menampilkan hasil perkalian, pembagian, penjumlahan, pengurangan, dan modulus.
 
 ![gambar 1](img/code6.png)
-![gambar 1](16.png)
+![gambar 1](16..png)
 
 ---
 
