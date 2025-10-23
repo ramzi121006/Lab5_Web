@@ -11,7 +11,20 @@
 ### Pengenalan JavaScript  
 Menampilkan teks menggunakan document.write() dan console.log().
 
-![gambar 1](img/code1.png)
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pengenalan JavaScript</title>
+  </head>
+  <body>
+    <h1>Pengenalan JavaScript</h1>
+    <h3>Contoh document.write dan console.log</h3>
+    <script>
+      document.write("Hello World<br>");
+      console.log("Hello World");
+    </script>
+  </body>
+</html>
 ![gambar 1](11.png)
 
 --
